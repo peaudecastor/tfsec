@@ -43,9 +43,8 @@ github.com/mitchellh/go-homedir
 github.com/mitchellh/go-wordwrap
 # github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e
 ## explicit
-# github.com/owenrumney/go-sarif v0.0.8
+# github.com/owenrumney/go-sarif v1.1.1
 ## explicit
-github.com/owenrumney/go-sarif/models
 github.com/owenrumney/go-sarif/sarif
 # github.com/pkg/term v0.0.0-20190109203006-aa71e9d9e942
 github.com/pkg/term
@@ -61,7 +60,7 @@ github.com/spf13/pflag
 ## explicit
 github.com/stretchr/testify/assert
 github.com/stretchr/testify/require
-# github.com/zclconf/go-cty v1.8.1
+# github.com/zclconf/go-cty v1.10.0
 ## explicit
 github.com/zclconf/go-cty/cty
 github.com/zclconf/go-cty/cty/convert
