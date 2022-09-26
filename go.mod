@@ -3,7 +3,7 @@ module github.com/tfsec/tfsec
 go 1.16
 
 require (
-	github.com/hashicorp/hcl/v2 v2.9.1
+	github.com/hashicorp/hcl/v2 v2.14.1
 	github.com/hashicorp/terraform v0.14.9
 	github.com/liamg/clinch v1.5.6
 	github.com/liamg/tml v0.4.0
